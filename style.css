@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border;
+}
+
+.row {
+    background-color: rgb(147, 147, 147);
+    border-radius: 30px;
+    box-shadow: 12px 12px 27px;
+    width: auto;
+    height: 30rem;
+}
+
+img {
+    width: 110%;
+    height: 30rem;
+    border-radius: 30px;
+    border-top-right-radius: 90px;
+    border-bottom-right-radius: 90px;
+}
+
+.login h1 {
+    font-size: 4rem;
+    font-weight: 300;
+    color: rgb(40, 49, 51);
+}
+
+.inp {
+    width: 70%;
+    height: 50px;
+    border-radius: 60px;
+    border-style: none;
+    outline: none;
+}
+
+.inp:hover {
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.25);
+}
+
+.btn1 {
+    width: 200px;
+    height: 50px;
+    font-weight: 600;
+    color: black;
+    border-radius: 60px;
+    border-style: none;
+    outline: none;
+    background-color: rgb(0, 234, 255);
+}
+
+.btn1:hover {
+    background-color: rgb(47, 141, 141);
+}
+
+/* .fa-facebook {
+    padding: 10px;
+    font-size: 20px;
+}
+.fa-instagram {
+    padding: 10px;
+    font-size: 20px;
+}
+.fa-twitter {
+    padding: 10px;
+    font-size: 20px;
+} */
+.fa-facebook:hover {
+    color: rgb(40, 49, 51);
+}
+
+.fa-instagram:hover {
+    color: rgb(40, 49, 51);
+}
+
+.fa-twitter:hover {
+    color: rgb(40, 49, 51);
+}
+
+.fa {
+    padding: 10px;
+    font-size: 20px;
+}
+
+section {
+    height: 45rem;
+}
